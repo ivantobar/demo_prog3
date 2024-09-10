@@ -7,14 +7,17 @@ def resta(x,y):
 def muttiplicacion (x,y):
  return x*y
 
-def divicion (x,y):
+def divicion1 (x,y):
     return (x/y)
 
-respuesta= divicion (4,2)
+respuesta= divicion1 (4,2)
 print(respuesta)
 
-respuesta = sumar (5,7)
+respuesta = muttiplicacion (5,7)
 print (respuesta)
 
 respuesta = sumar (7,5)
+print (respuesta)
+
+respuesta = resta (7,5)
 print (respuesta)
