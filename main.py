@@ -5,7 +5,7 @@ def resta(x,y):
     return x-y
 
 def muttiplicacion (x,y):
- return x*y
+ return (x*y)
 
 def divicion1 (x,y):
     return (x/y)
